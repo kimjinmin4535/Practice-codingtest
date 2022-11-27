@@ -25,7 +25,7 @@ PRODUCT_ID	PRODUCT_CODE	PRICE
 가격대가 1만원 이상 ~ 2만원 미만인 상품들은 PRODUCT_ID 가 1, 4, 6인 상품 3개,
 가격대가 2만원 이상 ~ 3만원 미만인 상품은 PRODUCT_ID 가 3인 상품 1개,
 가격대가 3만원 이상 ~ 4만원 미만인 상품은 PRODUCT_ID 가 5인 상품 1개,
-에 각각 해당하므로 다음과 같이 결과가 나와야 합니다.
+에 각각 해당하므로 다음과 같이 결과가 나와야 합니다..
 
 PRICE_GROUP	PRODUCTS
 0	1
